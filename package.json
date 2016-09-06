@@ -1,6 +1,6 @@
 {
   "name": "lindir",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Customizable CLI spinners",
   "main": "index.js",
   "author": "Even Stensberg <evenstensberg@gmail.com>",
