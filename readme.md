@@ -21,7 +21,7 @@ const spinner = new Lindir('Loading stuff').start();
 
   setTimeout(() => {
       spinner.color = 'green';
-      spinner.type = 'peace'
+      spinner.type = 'peace';
       spinner.text = 'Loading more stuff';
   }, 1000);
 ```
