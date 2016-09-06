@@ -21,5 +21,11 @@
     "cli-cursor": "^1.0.2",
     "cli-spinners": "^0.2.0",
     "log-symbols": "^1.0.2"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0"
   }
 }

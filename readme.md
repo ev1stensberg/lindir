@@ -1,7 +1,7 @@
 # :tropical_drink: Lindir :tropical_drink:
 
 
-<img src="src.gif" width="629">
+<img src="screenshot.gif" width="629">
 
 >Lindir is a library, more or less a direct copy of Sindre Sorhus´s [Ora](https://github.com/sindresorhus/ora). Use Spinners for the terminal and choose your own spinners on changes.
 
