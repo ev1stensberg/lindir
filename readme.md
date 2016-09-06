@@ -15,7 +15,7 @@
 #Example
 
 ```js
-const Lindir = require('lindir')
+const Lindir = require('lindir');
 
 const spinner = new Lindir('Loading stuff').start();
 
