@@ -1,0 +1,25 @@
+{
+  "name": "lindir",
+  "version": "1.0.0",
+  "description": "Customizable CLI spinners",
+  "main": "index.js",
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "repository": "https://github.com/ev1stensberg/lindir",
+  "keywords": [
+    "CLI",
+    "spinner",
+    "console",
+    "loading",
+    "spinner",
+    "log",
+    "test",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-cursor": "^1.0.2",
+    "cli-spinners": "^0.2.0",
+    "log-symbols": "^1.0.2"
+  }
+}
